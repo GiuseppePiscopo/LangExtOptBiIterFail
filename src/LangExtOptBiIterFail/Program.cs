@@ -33,7 +33,7 @@ namespace LangExtOptBiIterFail
                 Some: text =>
                     Console.WriteLine($"Do Action Some: '{text ?? "<null>"}'"));
 
-            return unit;
+            return doAction;
         }
     }
 }
