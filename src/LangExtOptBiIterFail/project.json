@@ -1,0 +1,23 @@
+﻿{
+  "version": "1.0.0-*",
+  "buildOptions": {
+    "emitEntryPoint": true
+  },
+
+  "dependencies": {
+    "LanguageExt.Core": "2.1.18",
+    "Microsoft.NETCore.App": {
+      "type": "platform",
+      "version": "1.1.4"
+    }
+  },
+
+  "frameworks": {
+    "netcoreapp1.1": {
+      "imports": [
+        "dotnet5.6",
+        "portable-net45+win8"
+      ]
+    }
+  }
+}
