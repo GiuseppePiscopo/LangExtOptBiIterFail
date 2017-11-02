@@ -1,7 +1,7 @@
 # LangExtOptBiIterFail
 Sample solution showing issue with Language-Ext package and its
 `Option<>.BiIter()` method causing a `ValueIsNoneException`.
-See [issue ???](https://github.com/louthy/language-ext/issues/???) on project
+See [issue 299](https://github.com/louthy/language-ext/issues/299) on project
 [home](https://github.com/louthy/language-ext/).
 
 ## Steps
